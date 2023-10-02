@@ -12,3 +12,7 @@ and converts the input to a digital siganl and uses it to control a PWM that can
 brightness on an LED. 
 
 ### asm_ex1
+does pretty much the same thing as the Micro_pre1, with some clock adjustments using NOP in assembly.
+
+### toggle_interrupt
+takes an external interrupt from a pin and toggles an LED when interrupt function gets executed.
