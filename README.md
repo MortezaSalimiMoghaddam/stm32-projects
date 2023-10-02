@@ -16,3 +16,7 @@ does pretty much the same thing as the Micro_pre1, with some clock adjustments u
 
 ### toggle_interrupt
 takes an external interrupt from a pin and toggles an LED when interrupt function gets executed.
+
+### Project_3 
+does the rpm control process on a DC Motor, comments will lead you to understand this one better.
+Note that this code has not been implemented and might need adjustments to work properly on a motor.
